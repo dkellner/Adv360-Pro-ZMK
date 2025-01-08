@@ -24,7 +24,7 @@
     ], [
        "&kp F1",      "&kp F2",        "&kp F3",               "&kp F4",               "&kp F5",        "&kp F6",           "&tog 1",                                                              "&mo 3", "&kp F7",       "&kp F8",          "&kp F9", "&kp F10", "&kp F11", "&kp F12",
        "&trans", "&kp PAGE_UP", "&kp BACKSPACE",               "&kp UP",           "&kp DELETE", "&kp PAGE_DOWN",            "&none",                                                              "&none", "&trans",       "&trans",          "&trans",  "&trans",  "&trans",  "&trans",
-       "&trans",    "&kp HOME",      "&kp LEFT",             "&kp DOWN",            "&kp RIGHT",       "&kp END",            "&none", "&trans", "&trans",                     "&trans", "&trans",  "&none", "&trans",       "&trans",          "&trans",  "&trans",  "&trans",  "&trans",
+       "&trans",   "&kp LC(A)",      "&kp LEFT",             "&kp DOWN",            "&kp RIGHT",     "&kp LC(E)",            "&none", "&trans", "&trans",                     "&trans", "&trans",  "&none", "&trans",       "&trans",          "&trans",  "&trans",  "&trans",  "&trans",
        "&trans",     "&kp ESC",       "&kp TAB",               "&trans",           "&kp RETURN",        "&trans",                               "&trans",                     "&trans",                     "&trans",       "&trans",          "&trans",  "&trans",  "&trans",  "&trans",
        "&trans",      "&trans",        "&trans", "&kp C_BRIGHTNESS_DEC", "&kp C_BRIGHTNESS_INC",                            "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&kp C_VOL_DN", "&kp C_VOLUME_UP",  "&trans",  "&trans",  "&trans"
     ], [
